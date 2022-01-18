@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    padding:3px;
+}
+
+
+/* this is a css comment */
+h1, h2, h3, h4, h5 {
+    justify-content: space-around;
+    color: rgb(85, 52, 30);
+    font-size: 50px;
+    text-align:center;
+    font-style: normal;
+
+}
+
+/* this is how you target an element within our html */
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-style: double;
+    border-width:2px;
+    
+}
+
+.nav a{
+    color:blueviolet
+}
+
+.nav a:hover{
+    color:chocolate
+}
+
+#Woof{
+    size: 30px;
+}
+
+#Working Dogs{
+    size: 30px;
+}
+
+#Wolves{
+    size: 30px;
+}
+
+body {
+    background-color:rgb(185, 199, 185);
+    background-image:url(paw_prints.gif);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+img {
+
+    display: flex;
+    justify-content: space-evenly;
+    width:80%;
+    text-align: center;
+
+}
+
+p {
+
+    justify-content: space-around;
+    display: flex;
+    color: rgb(28, 119, 5);
+    font-size: 30px;
+    text-align:center;
+    font-style: normal;
+    background-color: brown;
+    
+}

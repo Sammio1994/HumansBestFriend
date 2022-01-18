@@ -1,0 +1,10 @@
+<p>Hello World<p>
+HTML: Hyper Tex Markup Language, is used for coding the actual content of webpages
+It has been around since the early 90’s and continues to be a hugely important part of web development.
+HTML describes the structure of a webpage. It’s the most basic building blocks of the web.
+CSS Cascading Style Sheets is the language used to style websites.
+So you have the stuff - that’s HTML, 
+You have the way it looks - that’s CSS, 
+And you have the magic - that’s Javascript
+When a HTML document is read, it is the element tags which determine the type of content displayed. 
+There are many different types of tags.
